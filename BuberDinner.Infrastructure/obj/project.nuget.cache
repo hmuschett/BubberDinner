@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "vo8cQlc09ezjETGFpXHnzILcDJKHGBMBtWcZjki14wD5q+EeyXFNpFE4FjbuFoR8tVVGnI3Bvp4Ea/DH1XzmJw==",
+  "dgSpecHash": "wc+OCFVQpQNCL+mrLLD5HlLCHfxIE4NLXvTeE9nud+qATu8vJnvvpcMhI+s4LQwOkgY4mZ5CYvwBaxhlheN3mA==",
   "success": true,
-  "projectFilePath": "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+  "projectFilePath": "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\henry\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\henry\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\7.0.0\\microsoft.extensions.dependencyinjection.abstractions.7.0.0.nupkg.sha512",
