@@ -1,0 +1,101 @@
+# Carpeta obj generada por la compilación
+obj/
+
+# Carpeta bin generada por la compilación
+bin/
+
+# Archivos de configuración local
+appsettings.json
+appsettings.Development.json
+appsettings.Production.json
+
+# Archivos de usuario
+*.user
+
+# Archivos de registro
+*.log
+
+# Archivos de respaldo y temporales
+*~
+*.bak
+*.tmp
+
+# Carpeta de paquetes NuGet
+packages/
+
+# Carpeta de herramientas NuGet
+.nuget/
+
+# Archivos de caché
+*.cache
+
+# Archivos de respaldo de Visual Studio
+*.vspscc
+*_i.c
+*_p.c
+*.ncb
+*.suo
+*.tlb
+*.tlh
+*.bak
+*.cache
+*.ilk
+*.log
+*.lib
+*.sbr
+*.sdf
+*.aps
+*.clw
+*.dll
+*.exe
+*.pdb
+*.ipch/
+*.opendb
+*.scc
+*.VC.opendb
+
+# Archivos de caché de ReSharper
+_ReSharper*/
+
+# Carpeta de informes de prueba
+TestResults/
+
+# Carpeta de resultados de cobertura de código
+*.opencover.xml
+*.dotcover.xml
+
+# Carpeta de análisis de código fuente
+CodeAnalysis/
+
+# Carpeta de resultados de análisis de código fuente
+*.CodeAnalysisLog.xml
+
+# Carpeta de herramientas de compilación
+_build/
+
+# Archivos de caché de Cake
+.cake/
+
+# Carpeta de artefactos de compilación
+artifacts/
+
+# Carpeta de salida de publicación
+publish/
+
+# Archivo de bloqueo de proyecto
+.project.lock.json
+
+# Archivos de caché de proyecto
+*.nuget.props
+*.nuget.targets
+.projectpaket
+.paket/
+paket-files/
+packages/
+
+# Carpeta de archivos de migración de Entity Framework
+*.Designer.cs
+*.edmx
+*.csproj.user
+*.vcxproj.user
+*.xproj.user

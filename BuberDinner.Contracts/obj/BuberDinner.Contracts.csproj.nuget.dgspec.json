@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {}
+    "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {}
   },
   "projects": {
-    "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
+    "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+        "projectUniqueName": "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
         "projectName": "BuberDinner.Contracts",
-        "projectPath": "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+        "projectPath": "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
         "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-        "outputPath": "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Contracts\\obj\\",
+        "outputPath": "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Contracts\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",

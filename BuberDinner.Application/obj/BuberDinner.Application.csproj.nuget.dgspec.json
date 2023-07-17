@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {}
+    "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {}
   },
   "projects": {
-    "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+    "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+        "projectUniqueName": "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
         "projectName": "BuberDinner.Application",
-        "projectPath": "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
+        "projectPath": "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj",
         "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-        "outputPath": "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Application\\obj\\",
+        "outputPath": "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -28,8 +28,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
-                "projectPath": "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
+              "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+                "projectPath": "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
+    "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+        "projectUniqueName": "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
         "projectName": "BuberDinner.Domain",
-        "projectPath": "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
+        "projectPath": "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Domain\\BuberDinner.Domain.csproj",
         "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-        "outputPath": "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Domain\\obj\\",
+        "outputPath": "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",
