@@ -1076,11 +1076,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+      "projectUniqueName": "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
       "projectName": "BuberDinner.Api",
-      "projectPath": "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+      "projectPath": "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
       "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-      "outputPath": "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Api\\obj\\",
+      "outputPath": "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Api\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1097,14 +1097,14 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
-              "projectPath": "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
+            "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+              "projectPath": "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
             },
-            "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
-              "projectPath": "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
+            "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj": {
+              "projectPath": "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj"
             },
-            "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
-              "projectPath": "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
+            "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj": {
+              "projectPath": "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj"
             }
           }
         }

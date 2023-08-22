@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "3bi0DQnz7OI1fxaPCBjETrzkHLsOkxPfxmVOXF9xBH4bcXxRiGglSdRY4lU3ob+D3KooU1P/YLtzkarlUliHqg==",
+  "dgSpecHash": "ewsVIDMVeM22PMYIY+UnZ6zRwJl5bwCzHYWpTkcoW9bZjomB7fh6ujybZOuLCScXOzqiLox8W084Lx4G1OGDUg==",
   "success": true,
-  "projectFilePath": "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
+  "projectFilePath": "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Contracts\\BuberDinner.Contracts.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

@@ -1041,11 +1041,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+      "projectUniqueName": "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
       "projectName": "BuberDinner.Infrastructure",
-      "projectPath": "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
+      "projectPath": "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Infrastructure\\BuberDinner.Infrastructure.csproj",
       "packagesPath": "C:\\Users\\henry\\.nuget\\packages\\",
-      "outputPath": "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Infrastructure\\obj\\",
+      "outputPath": "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Infrastructure\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\henry\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -1062,8 +1062,8 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
-            "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
-              "projectPath": "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
+            "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj": {
+              "projectPath": "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Application\\BuberDinner.Application.csproj"
             }
           }
         }

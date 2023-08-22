@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "9iBiTG7rPEfrtWGXZL62FUsgYzug2FSvIYk65wxaaWmxEARFvo9pRJBXKRJOv6DWYSG3ZxIQJTE4dFINcC7+IA==",
+  "dgSpecHash": "YyF9QVWODXUiC34Q0Tu1y6428VsY50eMoj97nZKdLBCH8LipY2b2pF+wVaW9KEkmos4CsuFB3Z9gMj1lS2IB3g==",
   "success": true,
-  "projectFilePath": "D:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
+  "projectFilePath": "d:\\proyects\\learning\\NetCore\\BubberDinner\\BuberDinner.Api\\BuberDinner.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\henry\\.nuget\\packages\\microsoft.csharp\\4.5.0\\microsoft.csharp.4.5.0.nupkg.sha512",
     "C:\\Users\\henry\\.nuget\\packages\\microsoft.extensions.configuration\\7.0.0\\microsoft.extensions.configuration.7.0.0.nupkg.sha512",
